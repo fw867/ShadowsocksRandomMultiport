@@ -1,4 +1,4 @@
-# ShadowsocksRandomMultiport
+# Shadowsocks多端口随机配置
 
 #ss 服务端（假设你的目前的服务端 ss 端口已经监听在 423 端口）：
 
